@@ -1,3 +1,3 @@
-# MTHE272
-Final code relating to MTHE 272 truss project.
+# MATLABTrussProject
+Final code for a MATLAB truss project.
 Various functions used to complete task 1
