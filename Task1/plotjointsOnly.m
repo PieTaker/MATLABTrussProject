@@ -1,6 +1,5 @@
 function [ ] = plotjointsOnly( jointsfile, beamsfile)
-% created by Wesley Dossett, Brooke Huleatt, and Karly Kudrinko on March 4
-% this function inputs joint coordinates, beams, roller joint, and pinned
+% This function inputs joint coordinates, beams, roller joint, and pinned
 % joint, and plots all beams to show truss structure.
 hold off
 joints = xlsread(jointsfile);
